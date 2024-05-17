@@ -12,7 +12,7 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the dvc.yaml
-
+While Building the project, we have to follow these workflows, make sure we are updating everthing at every step.
 
 # How to run?
 ### STEPS:
